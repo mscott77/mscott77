@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mscott77
 - 👀 I’m interested in ... engineering
-- 🌱 I’m currently learning ... c++
+- 🌱 I’m currently learning ... programming
 - 💞️ I’m looking to collaborate on ... nothing
 - 📫 How to reach me ... my email
 
